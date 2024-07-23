@@ -20,8 +20,6 @@
   -**哈希和字典树**
   
   -**数据结构引论**
-test
-
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
   
   
