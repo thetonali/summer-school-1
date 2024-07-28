@@ -3,6 +3,8 @@
 
   -**栈、队列、链表和数组等基础知识**
   
+  https://github.com/thetonali/summer-school-1/tree/main/SumUp/1_%E6%A0%88%E3%80%81%E9%98%9F%E5%88%97%E3%80%81%E9%93%BE%E8%A1%A8%E5%92%8C%E5%A0%86%E6%A0%88%E7%AD%89%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86
+  
   -**STL和模拟等基础知识**
   
   -**快速排序、堆排序算法**
